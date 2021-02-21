@@ -2,4 +2,4 @@
 
 ### Lightweight setup for testing any libraries, technogoly on clean react project. 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif" width="100" height="100" />
