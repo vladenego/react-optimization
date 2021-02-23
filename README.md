@@ -1,4 +1,4 @@
-# react-clean-setup
+# react-optimization
 
 My experiment with preventing extra logs in tiny react application. 
 
