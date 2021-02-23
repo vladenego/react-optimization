@@ -1,5 +1,6 @@
 # react-clean-setup
 
-Lightweight setup for testing any libraries or technologies on clean react project. 
+My experiment with preventing extra logs in tiny react application. 
 
-<img src="https://media.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif" width="300" height="300" />
+<img src="https://media.giphy.com/media/l2JeeplDxfYSseHdu/giphy.gif" width="300" height="300" />
+
